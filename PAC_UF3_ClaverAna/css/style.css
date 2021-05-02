@@ -1,0 +1,61 @@
+body {
+   background: #34495E;
+   font: 16px ;
+   font-family: "Montserrat", sans-serif;
+   text-align: center;
+  }
+
+ 
+p, ol, li {
+   color: white;
+   font: 14px;
+}
+
+
+
+h1 {
+    color: #FAD7A0;
+    font: 40px;
+    font-weight: bold;
+  
+}
+
+h2 {
+    color: white;
+    text-align: center;
+}
+
+h3 {
+    color: #FAD7A0;
+
+}
+
+h4 {
+    color: #FAD7A0;
+text-decoration: underline;
+}
+
+h6 {
+    color: white;
+
+}
+
+
+.container {
+  display: flex;
+  justify-content: center;}
+
+.slot {
+  background-image: url("../img/zanahoria.png");
+  background-size: 100% 100%;
+  display: inline-block;
+  margin: 10px;
+  padding: 20px;
+  height: 250px;
+  width: 250px;
+}
+
+button { 
+  background: #FAD7A0;
+}
+
